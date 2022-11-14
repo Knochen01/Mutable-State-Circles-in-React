@@ -1,0 +1,8 @@
+.ColorButton-btn {
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-weight: bold;
+    margin: 8px 12px;
+    cursor: pointer;
+    float:inline-start
+}
